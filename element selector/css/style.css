@@ -1,0 +1,21 @@
+h1{ 
+ background-color:blue;
+ color:pink;
+ font-size:20px;
+}
+h2{ 
+ background-color:yellow;
+ color:darkblue;
+ font-size:20px;
+ 
+}
+h3{ 
+ background-color:pink;
+ color:deepskyblue;
+ font-size:20px;
+}
+p{ 
+ background-color:navy;
+ color:greenyellow;
+ font-size:20px;
+}
